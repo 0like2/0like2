@@ -3,7 +3,7 @@
 
 
 
-<img src="https://img.shields.io/badge/python-#3776ABstyle=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776ABstyle=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/pytorch-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 

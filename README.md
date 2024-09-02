@@ -15,11 +15,9 @@
 
 
 ### status 
----
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0like2&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0like2&layout=compact&theme=tokyonight)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0like2&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0like2&layout=compact&theme=tokyonight)
+
 
 
 <!--

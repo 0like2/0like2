@@ -1,7 +1,7 @@
 # Hi I'm 0like(YoumgRak.Lee) 👋
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+  <img src="https://render.gitanimals.org/farms/0like2"/>
 </a>
 
 ### 🛠️ Tech Stack 🛠️

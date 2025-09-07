@@ -4,8 +4,12 @@
   <img src="https://render.gitanimals.org/farms/0like2"/>
 </a>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/0like2"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=0like2&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/0like2"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### 🛠️ Tech Stack 🛠️
